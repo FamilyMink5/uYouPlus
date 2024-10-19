@@ -6,7 +6,7 @@
 
 
 # How I Installed the uYouPlus
-> I got YouTube iPA from **[IPA Archive](https://ipaarchive.com/)**
+> I got YouTube iPA from **[IPA Archive](https://ipaarchive.com/) (WARNING: The iPA here is corrupted)**
 
 > I used **[AltStore](https://altstore.io/)** to install uYouPlus
 
